@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/wintersdc/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Enemy/AI/EQS/EQS_Stealth.uasset",
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Blueprints/Projectiles/BP_ProjectileBase.uasset",
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/MN/H9OUOIAXBH1AVW49XTRSG4.uasset",
