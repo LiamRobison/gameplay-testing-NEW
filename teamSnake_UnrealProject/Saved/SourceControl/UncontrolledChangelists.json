@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Energyblade7/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Blueprints/UI_StealthGame.uasset",
-				"C:/Users/Energyblade7/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Props/Weapons/Slingshot/SlingShot.uasset",
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/Y5/WQ37PWIDTXE373OXHBHKBW.uasset",
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/L8/UOERHTH0EIN54SW0PDNPQQ.uasset",
@@ -21,7 +19,18 @@
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Props/Weapons/Slingshot/ABP_Slingshot.uasset",
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Character/Animations/PlayerKid_Pullback_Sling_Montage.uasset",
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Blueprints/Projectiles/BP_ProjectileBase.uasset",
-				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Props/Weapons/EnemyWeapons/BP_EnemyWeapon_Base.uasset"
+				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Props/Weapons/EnemyWeapons/BP_EnemyWeapon_Base.uasset",
+				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Enemy/Animations/EnemyKid_ABP.uasset",
+				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Character/EnemyKid_ABP.uasset",
+				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Enemy/Animations/EnemyKid_Walk.uasset",
+				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Character/KidRig.uasset",
+				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Enemy/Animations/EnemyKid_RaiseGun.uasset",
+				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Enemy/Animations/EnemyKid_LowerGun.uasset",
+				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Enemy/Animations/EnemyKid_Idle.uasset",
+				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Enemy/Animations/EnemyKid_Shoot.uasset",
+				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Props/Weapons/EnemyWeapons/Watergun.uasset",
+				"C:/Users/Energyblade7/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Blueprints/UI_StealthGame.uasset",
+				"C:/Users/Energyblade7/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
