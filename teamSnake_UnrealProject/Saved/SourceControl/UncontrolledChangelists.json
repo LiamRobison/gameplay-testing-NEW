@@ -18,7 +18,6 @@
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Props/Environment/Foliage/Tree01.uasset",
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Props/Weapons/Slingshot/ABP_Slingshot.uasset",
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Character/Animations/PlayerKid_Pullback_Sling_Montage.uasset",
-				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Blueprints/Projectiles/BP_ProjectileBase.uasset",
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Props/Weapons/EnemyWeapons/BP_EnemyWeapon_Base.uasset",
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Enemy/Animations/EnemyKid_ABP.uasset",
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Enemy/Animations/EnemyKid_Walk.uasset",
@@ -32,6 +31,9 @@
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Blueprints/Projectiles/BP_ProjectilePlayer.uasset",
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Enemy/AI/BT_Tasks/BT_Attack.uasset",
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Blueprints/Projectiles/BP_ProjectileEnemy.uasset",
+				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Enemy/AI/AIC_Stealth.uasset",
+				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Blueprints/Projectiles/BP_ProjectileBase.uasset",
 				"C:/Users/robisonlh/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Character/EnemyKid_ABP.uasset",
 				"C:/Users/Energyblade7/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Blueprints/UI_StealthGame.uasset",
 				"C:/Users/Energyblade7/Documents/GitHub/gameplay-testing-NEW/teamSnake_UnrealProject/Content/GameAssets/Blueprints/BP_ThirdPersonCharacter.uasset"
